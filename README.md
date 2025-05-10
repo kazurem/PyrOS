@@ -1,5 +1,9 @@
 # PyrOS
-Don't know what to do with this yet. Maybe I'll make an OS just for the sole purpose of running DOOM.  
+<p align="center">
+  <img src="assets/pyr-logo.png"/>
+</p>
+Don't know what to do with this yet. Maybe I'll make an OS just for the sole purpose of running DOOM.
+
 ## Resources
 https://github.com/ozkl/doomgeneric  
 https://github.com/shadlyd15/DoomLinux  
