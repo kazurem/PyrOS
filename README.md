@@ -11,4 +11,5 @@ https://www.nand2tetris.org/
 https://littleosbook.github.io/  
 https://www.nand2tetris.org/  
 https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/  
-https://www.youtube.com/watch?v=5glH8dGoeCA
+https://www.youtube.com/watch?v=5glH8dGoeCA  
+https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-operating-system
