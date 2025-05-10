@@ -1,6 +1,6 @@
 # PyrOS
 <p align="center">
-  <img src="assets/pyr-logo.png"/>
+  <img src="assets/os-image.png"/>
 </p>
 Don't know what to do with this yet. Maybe I'll make an OS just for the sole purpose of running DOOM.
 
